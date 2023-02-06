@@ -19,7 +19,7 @@ How to use it
 4. Paste the following code in the console and press "Enter".
   ```javascript
 var exploder = document.createElement("script");
-exploder.src = "http://dabsunter.github.io/sparklin-exploder/exploder.js";
+exploder.src = "http://https://github.com/Harry989/sparklin-exploder/exploder.js";
 document.head.appendChild(exploder);﻿
 ```
   ![Step 4](https://monosnap.com/file/UTGNLwe9RWPCStwCwJoKoG3ybNGV7L.png)
